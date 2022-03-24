@@ -1,4 +1,4 @@
-package ir.hossein.methodFactory;
+package ir.hossein.creational.methodFactory;
 
 public class WheelChair extends Chair{
   @Override

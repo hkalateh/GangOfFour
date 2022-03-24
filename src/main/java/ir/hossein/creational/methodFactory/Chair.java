@@ -1,4 +1,4 @@
-package ir.hossein.methodFactory;
+package ir.hossein.creational.methodFactory;
 
 public abstract class Chair {
   abstract void typeOfChair();

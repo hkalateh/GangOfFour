@@ -1,8 +1,6 @@
-package ir.hossein.methodFactory;
+package ir.hossein.creational.methodFactory;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class ChairFactoryTest {
 

@@ -1,4 +1,4 @@
-package ir.hossein.singleton;
+package ir.hossein.creational.singleton;
 
 import static org.junit.jupiter.api.Assertions.*;
 

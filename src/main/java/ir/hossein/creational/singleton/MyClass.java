@@ -1,4 +1,4 @@
-package ir.hossein.singleton;
+package ir.hossein.creational.singleton;
 
 public class MyClass {
 
